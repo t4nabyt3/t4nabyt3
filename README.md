@@ -1,10 +1,16 @@
 <h1 align="center">Hi 👋, I'm Nhân</h1>
 <h3 align="center">A fullstack developer from Vietnamese</h3>
+
 - 🔭 I’m currently working on **Freelancer**
+
 - 🌱 I’m currently learning **OSCP**
+  
 - 👯 I’m looking to collaborate on **Reverse Engineering**
+
 - 🤝 I’m looking for help with **Backend Project**
+
 - 💬 Ask me about **WEB PENTEST**
+  
 - ⚡ Fun fact **I think im not funny**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prvisk&label=Profile%20views&color=0e75b6&style=flat" alt="prvisk" /> </p>
