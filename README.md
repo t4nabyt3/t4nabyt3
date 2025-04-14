@@ -13,13 +13,7 @@
 
 - 🤝 I’m looking for help with **Backend Project**
 
-- 👨‍💻 All of my projects are available at [portfolior not here](portfolior not here)
-
-- 📝 I regularly write articles on [blog not here](blog not here)
-
 - 💬 Ask me about **WEB PENTEST**
-
-- 📄 Know about my experiences [resume not here](resume not here)
 
 - ⚡ Fun fact **I think im not funny**
 
