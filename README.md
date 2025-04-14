@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nhân</h1>
-<h3 align="center">A fullstack developer from Vietnamese</h3>
 
-- 🔭 I’m currently working on **Freelancer**
+- 🔭 I’m currently working on **Intern**
 
-- 🌱 I’m currently learning **OSCP**
-  
-- 👯 I’m looking to collaborate on **Reverse Engineering**
+- 🌱 I’m currently learning **Cyberjutsu Academy**
 
 - 🤝 I’m looking for help with **Backend Project**
 
