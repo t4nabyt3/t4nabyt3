@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **Cyberjutsu Academy**
 
-- 🤝 I’m looking for help with **Backend Project**
-
 - 💬 Ask me about **WEB PENTEST**
   
 - ⚡ Fun fact **I think im not funny**
